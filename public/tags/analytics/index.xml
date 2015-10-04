@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Analytics on San Antonio Tech Dads</title>
+    <link>http://localhost:1313/tags/analytics/</link>
+    <description>Recent content in Analytics on San Antonio Tech Dads</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>All rights reserved - 2015</copyright>
+    <lastBuildDate>Thu, 03 Sep 2015 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/analytics/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Get Savvy about New Relic Insights</title>
+      <link>http://localhost:1313/2015/09/03/get-savvy-about-new-relic-insights/</link>
+      <pubDate>Thu, 03 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/2015/09/03/get-savvy-about-new-relic-insights/</guid>
+      <description>
+
+&lt;p&gt;Our latest Office Hours Hangout kept us on the topic of Monitoring. &lt;a href=&#34;http://www.rackspace.com/blog/office-hours-hangout-learn-more-about-rackspace-intelligence/&#34;&gt;Last week we took a look at Rackspace Intelligence&lt;/a&gt;, our single pane of glass which gives customers a real-time and comprehensive overview of the health of their infrastructure at one glance. This week we invited our friends from New Relic to join us to discuss their &lt;a href=&#34;http://newrelic.com/insights&#34;&gt;Insights&lt;/a&gt; platform.&lt;/p&gt;
+
+&lt;p&gt;Insights is another real-time analytics tool, but unlike Rackspace Intelligence, Insights gives a look at the application, and more specifically how users are interacting with the application. This podcast was very&amp;hellip; (I promised myself I wouldn&amp;rsquo;t make the &amp;ldquo;insightful&amp;rdquo; pun again) educational. I was able to select a few highlights to share in the links below, and the full video and audio versions are available below.&lt;/p&gt;
+
+&lt;p&gt;&lt;div class=&#34;container&#34;&gt;
+&lt;audio controls&gt;
+        &lt;source src=&#34;http://drops.albush.com/Getting-Savvy-on-New-Relic-Insights.mp3&#34; type=&#34;audio/mp4&#34;&gt;
+        &lt;source src=&#34;http://drops.albush.com/Getting-Savvy-on-New-Relic-Insights.ogg&#34; type=&#34;audio/ogg&#34;&gt;
+        Sorry, your browser does not support the &lt;code&gt;audio&lt;/code&gt; element.
+&lt;/audio&gt;&lt;br&gt;
+Download: &lt;a href=&#34;http://drops.albush.com/Getting-Savvy-on-New-Relic-Insights.mp3&#34;&gt;MP3&lt;/a&gt; (33 MB) | &lt;a href=&#34;http://drops.albush.com/Getting-Savvy-on-New-Relic-Insights.ogg&#34;&gt;OGG&lt;/a&gt;  (108 MB) &lt;br&gt;
+Subscribe: Coming Soon.
+&lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;div class=&#34;video-container&#34;&gt;
+&lt;iframe class=&#34;youtube-player&#34; type=&#34;text/html&#34; width=&#34;640&#34; height=&#34;385&#34; src=&#34;http://www.youtube.com/embed/XaaEVMgu7es&#34; allowfullscreen frameborder=&#34;0&#34;&gt;
+&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/p&gt;
+
+&lt;h2 id=&#34;new-relic-insights-overview:055d627f86c04724851847f670c8a4b2&#34;&gt;New Relic Insights overview&lt;/h2&gt;
+
+&lt;p&gt;Our discussion started with a &lt;a href=&#34;https://youtu.be/XaaEVMgu7es?t=1m59s&#34;&gt;brief overview of Insights&lt;/a&gt;. I always appreciate having a product manager on to discuss his or her product, because they&amp;rsquo;ve spent the most time with the product, and more importantly the end users of that product. Our guest this week was Insights Product Manager Henry Shapiro, and he had a great explanation of Insights, and how our mutual customers are using it. Henry also &lt;a href=&#34;https://youtu.be/XaaEVMgu7es?t=13m51s&#34;&gt;identified 3 different verticals&lt;/a&gt; that can define most of their customers: ecommerce, Software as a Service, and Digital (media sites).&lt;/p&gt;
+
+&lt;h2 id=&#34;flipping-the-it-decision-making-process:055d627f86c04724851847f670c8a4b2&#34;&gt;Flipping the IT decision making process&lt;/h2&gt;
+
+&lt;p&gt;Co-host Drew Cox kicked off a discussion on how Insights allows the IT users, who have had the data all along, to surface that data, bring it to the correct decision makers, and effectively &lt;a href=&#34;https://youtu.be/XaaEVMgu7es?t=6m16s&#34;&gt;change the way decisions are made&lt;/a&gt;. Henry shared how some customers are using Insights to discover an entire potential customer base that was previously unknown.&lt;/p&gt;
+
+&lt;p&gt;Insights also helps &lt;a href=&#34;https://youtu.be/XaaEVMgu7es?t=10m5s&#34;&gt;clarify transactional data&lt;/a&gt;. Henry shared an example from New Relic&amp;rsquo;s own usage of Insights to assist in customer support. They have modified their site code to send data to Insights on many user transaction on the New Relic website. They are now able to capture the string of events the customer performed, so when a customer creates a support ticket, that string of events can be analyzed to better understand what the customer did, was trying to do, and obstacles they came up against. This means a significant reduction in the back and forth between customer and support agent, and more time spent directly solving customer issues.&lt;/p&gt;
+
+&lt;h2 id=&#34;other-services-that-pair-well-with-insights:055d627f86c04724851847f670c8a4b2&#34;&gt;Other services that pair well with Insights&lt;/h2&gt;
+
+&lt;p&gt;New Relic has a full suite of products our mutual customers use together. Henry shared a bit about how those services &lt;a href=&#34;https://youtu.be/XaaEVMgu7es?t=24m24s&#34;&gt;best fit together&lt;/a&gt;. He also shared one of the &lt;a href=&#34;https://youtu.be/XaaEVMgu7es?t=30m51s&#34;&gt;most creative use cases for Insights&lt;/a&gt;. Insights turns out to be a very useful platform for gathering and using data.&lt;/p&gt;
+
+&lt;h2 id=&#34;ecommerce-black-friday-and-insights:055d627f86c04724851847f670c8a4b2&#34;&gt;Ecommerce, Black Friday, and Insights&lt;/h2&gt;
+
+&lt;p&gt;It&amp;rsquo;s already September, Black Friday is only a few weeks away. We wanted to find out what features of Insights might be &lt;a href=&#34;https://youtu.be/XaaEVMgu7es?t=36m25s&#34;&gt;most useful for ecommerce sites&lt;/a&gt;. Henry shared a few ideas for determining a baseline and measuring against it. Additionally, we discussed one of our favorite topics, load testing. Henry &lt;a href=&#34;https://youtu.be/XaaEVMgu7es?t=38m9s&#34;&gt;recommended a healthy dose of load testing&lt;/a&gt; going into the Black Friday season, especially for new customers who might not have historical data to go off of.&lt;/p&gt;
+
+&lt;p&gt;Finally, Henry shared some &lt;a href=&#34;https://youtu.be/XaaEVMgu7es?t=41m13s&#34;&gt;recommendations for new customers in the implementation phase&lt;/a&gt; that he believes can provide the most return. Henry recommended using Insights to track usernames, and what each individual user does on the site. This can provide insight (I knew I couldn&amp;rsquo;t keep my no pun promise) into which customers have adopted new features, which continue to use older features, and how they interact with the site. This information can help provide a much more rewarding customer experience.&lt;/p&gt;
+
+&lt;p&gt;That&amp;rsquo;s it for this week, be sure to watch our new show every week, &lt;a href=&#34;http://live.ohpodcast.com/&#34;&gt;live at 1pm central&lt;/a&gt;, and on-demand audio podcasts available via &lt;a href=&#34;https://itunes.apple.com/us/podcast/rackspace-office-hours-netcast/id1035176963?mt=2&#34;&gt;iTunes&lt;/a&gt;, or your &lt;a href=&#34;http://feeds.feedburner.com/OfficeHoursPodcast&#34;&gt;favorite podcasting app&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
