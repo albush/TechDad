@@ -1,4 +1,4 @@
-baseurl = "http://satechdad.com"
+baseurl = "http://www.satechdad.com"
 languageCode = "en-us"
 title = "San Antonio Tech Dads"
 theme = "material-design"
@@ -12,8 +12,8 @@ canonifyurls = true
   # facebook = "Your facebook Name" # optional
   # gplus = "Your Google+ profile name" # optional
   # linkedin = "Your LinkedIn Name" # optional
-  headerCover = "images/SaTechDad-Podcast-bg.png" # optional
-  footerCover = "images/satechdad-bg.png" # optional
+  headerCover = "http://drops.albush.com/SaTechDad-Podcast-bg.png" # optional
+  footerCover = "http://drops.albush.com/SaTechDad-Podcast-bg.png" # optional
   # googleAnalyticsUserID = "Your Analytics User Id" # optional
 
 [permalinks]
