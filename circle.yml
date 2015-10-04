@@ -12,6 +12,8 @@ dependencies:
     - bin
 
 test:
+  pre:
+    - pygmentize -V
   override:
     - hugo -v
 
