@@ -7,8 +7,35 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>All rights reserved - 2015</copyright>
-    <lastBuildDate>Thu, 01 Oct 2015 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2015 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Episode 1 - Tablets and Chalk</title>
+      <link>http://localhost:1313/2015/10/07/episode-1---tablets-and-chalk/</link>
+      <pubDate>Wed, 07 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/2015/10/07/episode-1---tablets-and-chalk/</guid>
+      <description>&lt;p&gt;This is our first official episode. We talked a bit about the upcoming San Antonio Chalk it Up! event, San Anotnio&amp;rsquo;s new Yanaguana Park, and the pros and cons of different platforms for kids to work with technology.&lt;/p&gt;
+
+&lt;p&gt;&lt;div class=&#34;container&#34;&gt;
+&lt;audio controls&gt;
+        &lt;source src=&#34;http://drops.albush.com/SATech-Dads-001.mp3&#34; type=&#34;audio/mp4&#34;&gt;
+        &lt;source src=&#34;http://drops.albush.com/SATech-Dads-001.ogg&#34; type=&#34;audio/ogg&#34;&gt;
+        Sorry, your browser does not support the &lt;code&gt;audio&lt;/code&gt; element.
+&lt;/audio&gt;&lt;br&gt;
+Download: &lt;a href=&#34;http://drops.albush.com/SATech-Dads-001.mp3&#34;&gt;MP3&lt;/a&gt; (24 MB) | &lt;a href=&#34;http://drops.albush.com/SATech-Dads-001.ogg&#34;&gt;OGG&lt;/a&gt;  (38 MB) &lt;br&gt;
+Subscribe: iTunes coming soon | &lt;a href=&#34;http://subscribeonandroid.com/feeds.feedburner.com/SanAntonioTechDads&#34;&gt;Android&lt;/a&gt; | &lt;a href=&#34;http://feeds.feedburner.com/SanAntonioTechDads&#34;&gt;RSS&lt;/a&gt;
+&lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;div class=&#34;video-container&#34;&gt;
+&lt;iframe class=&#34;youtube-player&#34; type=&#34;text/html&#34; width=&#34;640&#34; height=&#34;385&#34; src=&#34;http://www.youtube.com/embed/DKVn3cz9DFQ&#34; allowfullscreen frameborder=&#34;0&#34;&gt;
+&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Episode 0 - SA Tech Dad Show</title>
