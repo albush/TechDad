@@ -18,7 +18,7 @@ youtube_id: DKVn3cz9DFQ
 
 This is our first official episode. We talked a bit about the upcoming San Antonio Chalk it Up! event, San Anotnio's new Yanaguana Park, and the pros and cons of different platforms for kids to work with technology.
 
-
+<!--more-->
 {{< audio >}}
 
 {{< youtube >}}

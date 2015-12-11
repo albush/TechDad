@@ -20,7 +20,7 @@ youtube_id: KVMGVyLLbG0
 ---
 
 Movies with kids in the theatre. A review of Hotel Transylvania 2. Are we taking kids to see Star Wars Episode VII? What order should we watch the Star Wars movies? Luminaria in San Antonio, The Bexar County Bibliotech has Lynda.com subscriptions. Dad Jokes.
-
+<!--more-->
 
 {{< audio >}}
 

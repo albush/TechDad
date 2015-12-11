@@ -18,7 +18,7 @@ youtube_id: oUIFOF80RVg
 ---
 
 A wrap up of our Halloween; We're closer to an MLS team in San Antonio; A review of the activity book, 'Geek Dad;' and Minecraft. Lots of Minecraft.
-
+<!--more-->
 
 {{< audio >}}
 
