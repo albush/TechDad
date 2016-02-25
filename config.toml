@@ -3,8 +3,8 @@ languageCode = "en-us"
 title = "San Antonio Tech Dads"
 theme = "material-design"
 paginate = 5
-Copyright = "All rights reserved - 2015"
-canonifyurls = true
+Copyright = "All rights reserved - 2015ish"
+
 
 [params]
   description = "A podcast about kids, tech, the city of San Antonio. And dad jokes." # optional
@@ -17,4 +17,4 @@ canonifyurls = true
   googleAnalyticsUserID = "UA-68370949-1"
 
 [permalinks]
-  post = "/:year/:month/:day/:title/" # optional
+  
