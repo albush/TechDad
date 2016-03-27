@@ -30,10 +30,17 @@
   <meta property="og:url" content="{{ .Site.BaseURL }}">
   <meta property="fb:app_id" content="{{ .Site.Params.sharing.facebook_app_id }}" />
   <meta property="fb:admins" content="{{ .Site.Params.sharing.facebook_admin }}" />
-  <meta property="og:description" content="{{.Site.Params.description}}">
+  {{with .Params.summary}}<meta property="og:description" content="{{.}}">{{end}}
   <meta property="og:site_name" content="{{.Site.Title}}">
-  <meta property="og:image" content="{{.Site.Params.sharing.social_image}}">
-  
+  {{with .Params.featured_image}}<meta property="og:image" content="{{.}}">{{end}}
+  <meta property="og:title" content="{{ .Title }}">
+  {{with .Params.mp3}}<meta property="og:audio" content="{{.}}">{{end}}
+  {{with .Params.youtube_id}}<meta property="og:audio" content="https://www.youtube.com/watch?v={{.}}">{{end}}
+  <meta property="og:type" content="article">
+  <meta property="og:locale" content="en_US">
+
+
+
   <style type="text/css">
   {{if .Site.Params.footerCover}}
     footer.page-footer{background-image: url({{.Site.Params.footerCover}});}

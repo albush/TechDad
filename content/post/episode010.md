@@ -1,6 +1,7 @@
 ---
 Date: 2016-02-24T22:54:48-06:00
 Title: SATechDad Podcast TacoGate2016
+Type: post
 author: Alan Bush
 mp3: http://drops.albush.com/SATechDad010.mp3
 duration: "58:20"
@@ -8,13 +9,14 @@ length: 42003017
 ogg: http://drops.albush.com/SATechDad010.ogg
 ogg_length: 119660053
 number: "010"
-summary: "Breakfast Tacos and Blue Apron and Deadpool and Upcoming Festivals"
+summary: "Drew, Corey, and Alan take on the San Antonio vs Austin Breakfast Taco Battle, cooking at home with Blue Apron, taking kids to see Deadpool, and a few upcoming festivals and events around town."
 tags:
 - San Antonio
 - Breakfast Tacos
 - Craft Beer
 - Blue Apron
 youtube_id: GrLD5AxNDjc
+featured_image: http://drops.albush.com/SATechDad-Episode-10.png
 ---
 
 Drew, Corey, and Alan take on the San Antonio vs Austin Breakfast Taco Battle, cooking at home with Blue Apron, taking kids to see Deadpool, and a few upcoming festivals and events around town.
