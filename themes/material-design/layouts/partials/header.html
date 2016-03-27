@@ -27,12 +27,12 @@
   <meta name="msapplication-TileImage" content="{{ .Site.BaseURL }}/images/mstile-144x144.png">
   <meta name="theme-color" content="#ffffff">
   <!-- Facebook and Linkedin Sharing -->
+  <meta property="og:url" content="{{ .Site.BaseURL }}">
   <meta property="fb:app_id" content="{{ .Site.Params.sharing.facebook_app_id }}" />
   <meta property="fb:admins" content="{{ .Site.Params.sharing.facebook_admin }}" />
   <meta property="og:description" content="{{.Site.Params.description}}">
   <meta property="og:site_name" content="{{.Site.Title}}">
   <meta property="og:image" content="{{.Site.Params.sharing.social_image}}">
-  
 
   <style type="text/css">
   {{if .Site.Params.footerCover}}
