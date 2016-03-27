@@ -9,12 +9,17 @@ Copyright = "All rights reserved - 2015ish"
 [params]
   description = "A podcast about kids, tech, the city of San Antonio. And dad jokes." # optional
   twitter = "satechdad" # optional
-  # facebook = "Your facebook Name" # optional
+  facebook = "SATechDad" # optional
   # gplus = "Your Google+ profile name" # optional
   # linkedin = "Your LinkedIn Name" # optional
   headerCover = "http://drops.albush.com/SaTechDad-Podcast-bg.png" # optional
   footerCover = "http://drops.albush.com/SaTechDad-Podcast-bg.png" # optional
   googleAnalyticsUserID = "UA-68370949-1"
 
+  [params.sharing]
+    facebook_admin  = "903396593101664" 
+    facebook_app_id = "994971550579121"
+    social_image = "http://drops.albush.com/SATD_OG_IMAGE.png"
+
+
 [permalinks]
-  
