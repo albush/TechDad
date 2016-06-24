@@ -1,23 +1,23 @@
 ---
-Date: 2016-05-19T10:45:48-06:00
-Title: "SATechDad Podcast - Google McGoogleface"
+Date: 2016-06-24T08:01:46-05:00
+Title: "SATechDad Podcast - We love libraries"
 author: Alan Bush
-mp3: http://drops.albush.com/SATechDad-Episode018.mp3
-ogg: http://drops.albush.com/SATechDad-Episode018.ogg
-duration: "50:01"
-length: 36
-ogg_length: 102.5
-number: "018"
-summary: "Corey, Drew, and Alan chat about using Instagram to plan places to visit during vacation, the new products announced at GoogleIO - and the fate of the existing products which now seem redundant, a first for local soccer, and this year's 100 free things to do in San Antonio. "
+mp3: http://drops.albush.com/SanAntonio-Tech-Dad-Podcast-2016-06-22.mp3
+ogg: http://drops.albush.com/SanAntonio-Tech-Dad-Podcast-2016-06-22.ogg
+duration: "38:36"
+length: 27.8
+ogg_length: 78.9
+number: "019"
+summary: "Drew's back from vacation, with tips on traveling with little ones. We both love the library - for paper, digital, and audio books."
 tags:
 - San Antonio
-- Google
-- Instagram
+- Library
 - Vacation
-youtube_id: L-JhRnqQK24
+youtube_id: DIbb4ZcZIoc
 ---
 
-Corey, Drew, and Alan chat about using Instagram to plan places to visit during vacation, the [new products](https://home.google.com/) announced at GoogleIO - and the fate of the existing products which now seem redundant, [a first for local soccer](http://therivardreport.com/san-antonio-teams-will-make-local-soccer-history-at-us-open-cup/), and this year's [100 free things for kids and families to do in San Antonio](http://sanantoniomomblogs.com/100-free-things-kids-families-san-antonio-summer/).
+Drew's back from vacation, with tips on traveling with little ones. We both love the library - for paper, digital, and audio books.
+[San Antonio Mayor's Reading Challenge](http://guides.mysapl.org/summerreading)
 
 <!--more-->
 
